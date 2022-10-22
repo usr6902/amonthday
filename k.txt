@@ -1,1 +1,1 @@
-F
+LWIN,VK_D,VK_E,VK_N,VK_E,VK_M
